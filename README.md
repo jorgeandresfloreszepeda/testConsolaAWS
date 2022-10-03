@@ -8,3 +8,5 @@ CAEI_Espanol: Tiene los subscriptores SMS que hablan ESPANOL (lista en su moment
 TopicSecureCloud: Es un ejemplo para pruebas
 
 En el programa se muestra como agregar nuevos subscriptores y como publicar un mensaje
+
+Tienen que instalar AWS Cli en el computador que lo va a usar y configurar el profile awsvisualstudio
